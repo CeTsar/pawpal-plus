@@ -2,6 +2,8 @@ from datetime import date, timedelta
 
 from pawpal_system import Owner, Pet, Task, Scheduler
 
+# Automated test suite for PawPal+ system
+
 
 def test_task_completion():
     task = Task("Feed breakfast", "08:00")
