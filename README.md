@@ -1,5 +1,7 @@
 # PawPal+
 
+docs: finalize README and reflection
+
 PawPal+ is a smart pet care management system that helps pet owners organize daily routines such as feedings, walks, medications, and appointments. The project uses Python object-oriented programming to model owners, pets, tasks, and scheduling logic.
 
 ---
