@@ -5,6 +5,7 @@ from typing import List, Optional
 
 @dataclass
 class Task:
+    # PawPal+ system logic: Owner, Pet, Task, Scheduler
     """Represents a pet care task such as feeding, walking, or medication."""
     description: str
     time: str
