@@ -83,6 +83,7 @@ class Owner:
 
 class Scheduler:
     """Organizes, filters, completes, and checks pet care tasks."""
+    # Algorithmic layer: sorting, filtering, conflict detection, recurrence
 
     def __init__(self, owner: Owner):
         """Initializes the scheduler with an owner."""
